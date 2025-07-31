@@ -1,8 +1,21 @@
 {
   "pairing_password": "I'AM BACK !!",
   "authorized_users": [
-    { "number": "6285847270705", "username": "HanzyOfficial" },
-    { "number": "48732078691", "username": "Hanzy" },
-    { "number": "6281391910335", "username": "StarzOfficial" }
+    {
+      "number": "6285847270705",
+      "username": "HanzyOfficial"
+    },
+    {
+      "number": "48732078691",
+      "username": "Hanzy"
+    },
+    {
+      "number": "6281391910335",
+      "username": "StarzOfficial"
+    },
+    {
+      "number": "6281234567890",
+      "username": "XiaofanUser"
+    }
   ]
 }
